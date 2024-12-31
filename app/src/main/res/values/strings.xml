@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="welcome">Chào mừng quay trở lại\nVui lòng đăng nhập</string>
+    <string name="register">Chào mừng \n Vui lòng đăng kí tài khoản</string>
+    <string name="user">Enter your username</string>
+    <string name="pass">Enter your password</string>
+    <string name="login">Login</string>
+    <string name="rg">Register</string>
+    <string name="remember">Remember me</string>
+</resources>
